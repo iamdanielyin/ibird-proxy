@@ -1,0 +1,29 @@
+{
+  "name": "ibird-proxy",
+  "version": "1.0.0-alpha.1",
+  "description": "API proxy for ibird.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfxs/ibird-proxy.git"
+  },
+  "keywords": [
+    "ibird",
+    "node",
+    "koa",
+    "web",
+    "app",
+    "http",
+    "application",
+    "ibird-addon"
+  ],
+  "author": "yinfxs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yinfxs/ibird-proxy/issues"
+  },
+  "homepage": "https://github.com/yinfxs/ibird-proxy#readme",
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
